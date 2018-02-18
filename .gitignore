@@ -2,7 +2,7 @@
 /.recommenders/
 /target/
 /RemoteSystemsTempFiles/
-.classpath/
-.gitignore/
-.project
-.settings/**
+**/.classpath/
+**/.gitignore/
+**/.project
+**/.settings/**
